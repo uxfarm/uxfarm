@@ -12,4 +12,6 @@ You can click the Preview link to take a look at your changes.
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Learning Experience](https://uxfarm.tumblr.com/post/630372281490735104)
+- [What is Learnability?](https://uxfarm.tumblr.com/post/630369250581807104)
 <!-- BLOG-POST-LIST:END -->
